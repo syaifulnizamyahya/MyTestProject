@@ -6799,3 +6799,54 @@ Script Stack (0 frames) :
 [2024.01.09-04.43.18:543][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
 [2024.01.09-04.43.18:554][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
 [2024.01.09-04.43.18:624][456]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.01.09-04.44.16:986][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.01.09-04.44.16:995][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-04.44.17:067][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/ThirdPersonMap" FILE="D:/Dev/MyTestProject/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.09-04.44.17:113][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.09-04.44.17:140][538]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.01.09-04.44.17:141][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/ThirdPersonMapAFBE3802418767767A8B83B9FDB78A22.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.01.09-04.44.17:161][538]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5S/C3LBNXAESBDFI3XILRBCWC
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1H/57P2NLTUSSOBOXWIZ9LXPM
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LQ/O14EX0NIYF9OTFMV55ZYUU
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YI/4TJR0NXS09WJRPNQRL33BC
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/56/72L6MQ5T8ARP8VLBUR8047
+/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/0/07/V22LZ3805J31VYVIGEHSJE
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Z9/RNM1OKGKBLPP6WERJLGBAA
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GA/3VLIYV8J61OXIO73MXBKRK
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1B/7VNVK3UXGHQDYN3LX0B8WX
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9O/LT6ZAWAGIX8ONS822B89VG
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/N4/YA1Z1YEP8FN649VS2K7OI7
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EV/HNK96978CGUKFQ04SCBP56
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/UD/RBKY5NIN3AF9H54Y1IYCR7
+[2024.01.09-04.44.17:162][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.09-04.44.17:201][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.09-04.44.17:221][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.09-04.44.17:241][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.09-04.44.17:245][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR
+[2024.01.09-04.44.17:247][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/5PI42YRDC8HSSG6BVV2GRR51349AEF4D9725202758F58B96C42535.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset'
+[2024.01.09-04.44.17:251][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96
+[2024.01.09-04.44.17:252][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/IM858T68EBXCBX1T2FNR963B50ED0C4B17069C48B4A09E9DA6945D.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset'
+[2024.01.09-04.44.17:256][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2024.01.09-04.44.17:257][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/BEYC27T14FHBU6LF2F60RRDB8128714760C7730FD0619D180A6EB5.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2024.01.09-04.44.17:264][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.09-04.44.17:265][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/OTJMGDDXDV5TI7982YKZ5PE2A681504A04485D0D7E5F9AB016B688.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.09-04.44.17:270][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO
+[2024.01.09-04.44.17:271][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/9VVR39MG0K7W5GQIEFE7SO01BB4B024D99C20EFB603A9E76551001.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset'
+[2024.01.09-04.44.17:275][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C
+[2024.01.09-04.44.17:276][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/6B9RJI3FDPCETRKXUXCQ4C1121D65E4E287E42E0BB9E810745A2E2.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset'
+[2024.01.09-04.44.17:279][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2024.01.09-04.44.17:280][538]LogSavePackage: Moving 'D:/Dev/MyTestProject/MyProject/Saved/Q7Y1URWWFS0TXGWUTO3S6130C0B4C64F95964BB258F596618513C5.tmp' to 'D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2024.01.09-04.44.17:284][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y

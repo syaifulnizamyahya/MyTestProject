@@ -6,7 +6,30 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Dev/MyTestProject/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset",
-				"D:/Dev/MyTestProject/MyProject/Content/MyProject/Blueprints/WB_UI.uasset"
+				"D:/Dev/MyTestProject/MyProject/Content/MyProject/Blueprints/WB_UI.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/0/07/V22LZ3805J31VYVIGEHSJE.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9O/LT6ZAWAGIX8ONS822B89VG.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/N4/YA1Z1YEP8FN649VS2K7OI7.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EV/HNK96978CGUKFQ04SCBP56.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Dev/MyTestProject/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/ThirdPerson/Maps/_GENERATED/syaif/Cylinder_EBABFDC4.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/ThirdPerson/Maps/_GENERATED/syaif/Cone_4B702183.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/MyProject/Shapes/BasePlane.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/MyProject/Shapes/NewPhysicalMaterial.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/Blueprints/NewHUD.uasset"
 			]
 		}
 	]
