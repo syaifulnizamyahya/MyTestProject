@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Dev/MyTestProject/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+				"D:/Dev/MyTestProject/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset",
+				"D:/Dev/MyTestProject/MyProject/Content/MyProject/Blueprints/WB_UI.uasset"
 			]
 		}
 	]
